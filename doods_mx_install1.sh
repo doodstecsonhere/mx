@@ -6,7 +6,8 @@ sudo apt update -y && sudo apt upgrade -y
 
 #install apps in official repos
 sudo apt install -y \
-gnome-calculator
+oxygencursors \
+gnome-calculator \
 kdeconnect \
 gnome-control-center \
 gnome-online-accounts \
